@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there 👋 / Hola 👋  
 
-<!--
-**xNanoEngine/xNanoEngine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi  
+¡Hola! Soy Matias Martinez, y este es mi repositorio personal en GitHub.  
+Soy estudiante de la carrera de Ing. Civil en informatica.  
 
-Here are some ideas to get you started:
+## Intereses   
+Mis principales areas de interes son:  
+- Desarrollo Web  
+- Desarrollo de aplicaciones móviles  
+- Seguridad Informatica  
+- IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies  
+Mis principales hobbies son:  
+- La musica: Escuchar o tocar la guitarra  
+- Jugar Videojuegos  
+- Revisar nuevas tecnologias de desarrollo  
+- Conversar  
+
+## Tecnologías conocidas y utilizadas  
+He trabajado con las siguientes tecnologías:  
+- Python  
+- Javascript  
+- React  
+- C++  
+- Mariadb  
+
+## Contacto  
+Si tienes alguna pregunta, sugerencia o simplemente quieres decir hola, no dudes en ponerte en contacto conmigo:  
+
+- Correo electrónico: xnanoengine@gmail.com  
+- Perfil de GitHub: @xNanoEngine  
+
+¡Gracias por visitar mi repositorio!  
