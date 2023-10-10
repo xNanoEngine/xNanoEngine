@@ -24,7 +24,8 @@ He trabajado con las siguientes tecnologías:
 - Javascript  
 - React  
 - C++  
-- Mariadb  
+- Mariadb
+- Docker  
 
 ## Contacto  
 Si tienes alguna pregunta, sugerencia o simplemente quieres decir hola, no dudes en ponerte en contacto conmigo:  
