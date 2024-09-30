@@ -15,8 +15,8 @@
 <br/>
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/xNanoEngine">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=xnanoengine&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnanoengine&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=xnanoengine&theme=merko&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnanoengine&theme=merko&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>
 
