@@ -22,7 +22,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&color=0C9351&width=500&lines=Contacto++)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=75F28C&repeat=false&width=1250&lines=Si+tienes+alguna+pregunta%2C+sugerencia+o+simplemente+quieres+decir+hola%2C+no+dudes+en+ponerte+en+contacto+conmigo%3A++)](https://git.io/typing-svg)
-<div> 
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;"> 
   <a href="https://www.linkedin.com/in/matias-martinez-schwalm-8ab8a6299" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50px" height="50px" target="_blank"></a> 
   <a href="mailto:xnanoengine@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50px" height="50px" target="_blank"></a>
 </div>
