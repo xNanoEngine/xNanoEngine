@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=33E453&width=435&lines=Hola+%F0%9F%91%8B+%2F+Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&color=0C9351&width=500&lines=Sobre+mi)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&color=75F28C&multiline=true&repeat=false&width=850&lines=%C2%A1Hola!+Soy+Matias+Martinez%2C+bienvenido+a+mi+repositorio+personal+de+GitHub.+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&color=75F28C&multiline=true&repeat=false&width=650&lines=Soy+ingeniero+civil+informatico+.+)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&color=75F28C&multiline=true&repeat=false&width=650&lines=Soy+ingeniero+civil+informatico.+)](https://git.io/typing-svg)   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&color=0C9351&width=500&lines=Tecnolog%C3%ADas+conocidas+y+utilizadas+)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&color=75F28C&multiline=true&repeat=false&width=500&lines=He+trabajado+con+las+siguientes+tecnolog%C3%ADas%3A++)](https://git.io/typing-svg)  
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
